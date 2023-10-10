@@ -1,2 +1,1 @@
-# BitRatCracked
-Remote Access Tool (RAT) - BitRat Cracked by MonoWare
+![img](https://i.imgur.com/isjUBxB.png)
